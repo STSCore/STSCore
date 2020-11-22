@@ -1,0 +1,15 @@
+{
+    "Version": "0.1",
+    "Repos": [
+        {
+            "ID": "7d610e5e-f7d0-4a4e-ad31-9ef735f1d9d2",
+            "Author": "Johnny",
+            "Repos": [
+                {
+                    "Name": "SampleV1",
+                    "Url": "https://STSCore@dev.azure.com/STSCore/SampleV1/_git/SampleV1"
+                }
+            ],
+        }
+    ]
+}
