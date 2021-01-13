@@ -4,9 +4,11 @@
         {
             "ID": "7d610e5e-f7d0-4a4e-ad31-9ef735f1d9d2",
             "Author": "Johnny",
+            "Email": "ContactHK@SoftwareTailor.com",
             "Repos": [
                 {
                     "Name": "SampleV1",
+                    "type": "private",
                     "Url": "https://STSCore@dev.azure.com/STSCore/SampleV1/_git/SampleV1"
                 }
             ],
